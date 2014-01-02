@@ -73,3 +73,6 @@ Thanks
 ------
 
 *jimi* was originally based on djangode, a node.js micro-framework written by Simon Willison. The framework still uses the djangode templating system, so he deserves heaps of credit.
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/colingourlay/jimi/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
